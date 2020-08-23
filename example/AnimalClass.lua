@@ -1,4 +1,4 @@
-local ClassFactory = require(game.ReplicatedStorage:WaitForChild("ClassFactory"))
+local ClassFactory = require("ClassFactory")
 local Animal = ClassFactory:New("Animal")
 
 --[[
